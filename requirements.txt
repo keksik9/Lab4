@@ -1,0 +1,4 @@
+vk-api
+argparse
+neo4j
+python-dotenv
